@@ -1,2 +1,2 @@
-var networkName = 'Ethereum';
+var networkName = 'WorldLand';
 var faviconPath = '/favicon.ico';
